@@ -13,7 +13,7 @@ Examples: ```folder``` ```folder-name``` ```folder_name```
 
 ## Rules
 * Users are only allowed 1 folder or file within the ```community``` folder.
-* Users can create as many folders/files if they made a main folder within the ```community``` folder.
+* Users can create as many folders/files as they wish, as long as they have their own folder within the ```community``` folder.
 * No annoying/inappropriate audio within the playlists.
 
 # Contribution Instructions:
