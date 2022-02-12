@@ -21,6 +21,6 @@ Examples: ```folder``` ```folder-name``` ```folder_name```
 * No annoying/inappropriate audio within the playlists.
 
 # Contribution Instructions:
-The Github Desktop App is good for this. Make a pull request with the files you want to add/modify, and I will get to it ASAP.
+The Github Desktop App is good for this. Fork this repository and make the modifications from there. Make a pull request with the files you've added/modified, and I will get to it ASAP.
 
 If you need additional help or you have questions, wizerd can assist you on the JCIT Discord server.
