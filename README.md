@@ -3,6 +3,8 @@ A collection of playlists/radios that can be contributed by players for JCIT.
 
 Useful if you want to hear your own music on the server, or want to play your own sounds.
 
+This isn't limited to radio stations, if you have a file host link (Dropbox, Google Drive, own web server, etc.) you can play any sound file you want.
+
 ## Files
 Stream Radio will only accept certain filetypes; those that end in ```_m3u.txt``` or ```_pls.txt``` .  
 Examples: ```file-name_m3u.txt``` ```file_name_pls.txt```
