@@ -1,6 +1,8 @@
 # tb-radio-playlists
 A collection of playlists/radios that can be contributed by players for JCIT.
 
+Useful if you want to hear your own music on the server, or want to play your own sounds.
+
 ## Files
 Stream Radio will only accept certain filetypes; those that end in ```_m3u.txt``` or ```_pls.txt``` .  
 Examples: ```file-name_m3u.txt``` ```file_name_pls.txt```
@@ -17,6 +19,6 @@ Examples: ```folder``` ```folder-name``` ```folder_name```
 * No annoying/inappropriate audio within the playlists.
 
 # Contribution Instructions:
-The Github Desktop App is useful for this. Make a pull request with the files you want to add/modify, and I will get to it ASAP.
+The Github Desktop App is good for this. Make a pull request with the files you want to add/modify, and I will get to it ASAP.
 
 If you need additional help or you have questions, wizerd can assist you on the JCIT Discord server.
