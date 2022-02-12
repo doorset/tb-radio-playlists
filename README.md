@@ -19,4 +19,4 @@ Examples: ```folder``` ```folder-name``` ```folder_name```
 # Contribution Instructions:
 The Github Desktop App is useful for this. Make a pull request with the files you want to add/modify, and I will get to it ASAP.
 
-If you need additional help, wizerd can assist you on the JCIT Discord server.
+If you need additional help or you have questions, wizerd can assist you on the JCIT Discord server.
