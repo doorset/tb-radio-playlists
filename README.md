@@ -17,8 +17,8 @@ Examples: ```folder``` ```folder-name``` ```folder_name```
 
 ## Rules
 * Users are only allowed 1 folder or file within the ```community``` folder.
-* Users can create as many folders/files as they wish, as long as they have their own folder within the ```community``` folder.
-* No annoying/inappropriate audio within the playlists.
+* Users can create as many folders/files as they wish, as long as they have their own main folder within the ```community``` folder.
+* No annoying/inappropriate audio.
 
 # Contribution Instructions:
 The Github Desktop App is good for this. Fork this repository and make the modifications from there. Make a pull request with the files you've added/modified, and I will get to it ASAP.
