@@ -1,7 +1,7 @@
 # tb-radio-playlists
 A collection of playlists/radios that can be contributed by players for JCIT.
 
-Useful if you want to hear your own music on the server, or want to play your own sounds.
+Useful if you want your own music/sounds to be "stored" on the server.
 
 This isn't limited to radio stations, if you have a file host link (Dropbox, Google Drive, own web server, etc.) you can play any sound file you want, just follow the listed rules.
 
